@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="9.856">
-    <testcase classname="BBC weathers" name="_2" time="9.226">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="15.059">
+    <testcase classname="BBC weathers" name="_2" time="14.361">
         <system-out><![CDATA[Given I am the BBC weather homepage,........................................passed
 When I enter the city "Bournemouth, Bournemouth",...........................passed
 And I click the on search icon, I should be able to see the current weather results..passed

@@ -13,4 +13,13 @@ public class ClassA_testrunner {
         System.out.println("This is my first java program");
 //        Ctrl+Alt+l to format codes
     }
+
+    @Test
+    public void mySecondCode(){
+
+        System.out.println("Hello Java World");
+        System.out.println("This is my second java program");
+
+    }
+
 }
